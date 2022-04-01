@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\obj\Debug\do_while_assign.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\obj\Debug\do_while_assign.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\bin\Debug\do_while_assign.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\bin\Debug\do_while_assign.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\bin\Debug\do_while_assign.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\obj\Debug\do_while_assign.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\do_while_assign\obj\Debug\do_while_assign.pdb

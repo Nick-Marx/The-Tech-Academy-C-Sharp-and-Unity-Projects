@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.pdb

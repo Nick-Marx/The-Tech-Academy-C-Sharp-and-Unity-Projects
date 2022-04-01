@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\bin\Debug\methods.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\bin\Debug\methods.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\bin\Debug\methods.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\obj\Debug\methods.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\methods\obj\Debug\methods.pdb

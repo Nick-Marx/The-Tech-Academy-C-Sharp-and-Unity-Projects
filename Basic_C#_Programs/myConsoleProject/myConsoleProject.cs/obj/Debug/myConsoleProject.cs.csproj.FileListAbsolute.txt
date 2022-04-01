@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

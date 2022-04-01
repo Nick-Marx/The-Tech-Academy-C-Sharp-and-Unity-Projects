@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ClassicArcade/Scenes/MainMenu.unity
+    guid: 10fe00cb8146c954b846b4f605eaf1d1
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/RoidsStartScreen.unity
+    guid: 06d01d4daf1afde439291a4ee4f15660
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/RoidsLevel01.unity
+    guid: a45d428f96d05f44fb796af048e963d1
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/RoidsEndScreen.unity
+    guid: 26f2663c21c003942a02788a86a64adb
+  - enabled: 0
+    path: Assets/Frogger/Scenes/FroggerStartScreen.unity
+    guid: 7a8f4ca70d5a5044ebdceb81327c0a04
+  - enabled: 0
+    path: Assets/Frogger/Scenes/FroggerGameScreen.unity
+    guid: 24adaab62a23da64b9e8ba966db9332a
+  - enabled: 0
+    path: Assets/Frogger/Scenes/FroggerEndScreen.unity
+    guid: b0499237fcc88264f9e4d9353229e85d
+  - enabled: 0
+    path: Assets/Frogger/Scenes/FroggerWinScreen.unity
+    guid: 21a52e524b16f3443ae078c0c1936ac0
+  - enabled: 0
+    path: Assets/Mario/scenes/Title.unity
+    guid: 4bec931e8a2cbe74e9be51f415d83662
+  - enabled: 0
+    path: Assets/Mario/scenes/Level01.unity
+    guid: 6cc19e71af198bc47a75a30a65b36808
+  - enabled: 0
+    path: Assets/Tetris/Scenes/TetrisGameover.unity
+    guid: abfc33881932b26429100adef743a6ec
+  - enabled: 0
+    path: Assets/Tetris/Scenes/TetrisMenu.unity
+    guid: 684eb5948064cbf4e82dfc06b1010fd7
+  - enabled: 0
+    path: Assets/SpaceInvaders/Scenes/GameScene.unity
+    guid: 0ea55f44ef660cb4187569b484ae9303
+  - enabled: 0
+    path: Assets/SpaceInvaders/Scenes/GameOverScene.unity
+    guid: 0dc4a4481f128d741b2ce71b98328f4d
+  - enabled: 0
+    path: Assets/Tetris/Scenes/TetrisMain.unity
+    guid: dddba2e000431d845a0ce3be737802fa
+  - enabled: 1
+    path: Assets/NM_Tetris/Scenes/MenuScene.unity
+    guid: 799838fa2fbd74641aafc7aa2f2bae63
+  - enabled: 1
+    path: Assets/NM_Tetris/Scenes/MainScene.unity
+    guid: 315f3009c57f4ef45803e4b1b8e937ce
+  - enabled: 1
+    path: Assets/NM_Tetris/Scenes/CreditScene.unity
+    guid: 482162f0184cc524cabf6cc4b2ebb060
+  - enabled: 0
+    path: Assets/StartMenu.unity
+    guid: dee203b431141f5498e4ff6836de2c23
+  - enabled: 0
+    path: Assets/Mario(ish)/Scenes/Game.unity
+    guid: 4aec4f0a6688bf04f98ac8c5927b50f2
+  - enabled: 0
+    path: Assets/Mario(ish)/Scenes/EndGame.unity
+    guid: dd3d2d3dbd3730a4c8b9f3250beceaf4
+  m_configObjects: {}

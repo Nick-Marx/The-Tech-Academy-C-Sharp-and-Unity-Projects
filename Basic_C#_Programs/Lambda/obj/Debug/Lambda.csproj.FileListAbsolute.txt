@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\bin\Debug\Lambda.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\bin\Debug\Lambda.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\bin\Debug\Lambda.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\obj\Debug\Lambda.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\Lambda\obj\Debug\Lambda.pdb

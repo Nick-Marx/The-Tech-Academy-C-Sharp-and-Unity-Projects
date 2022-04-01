@@ -1,0 +1,6 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\bin\Debug\AnotherMethod.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\bin\Debug\AnotherMethod.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\bin\Debug\AnotherMethod.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\obj\Debug\AnotherMethod.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\obj\Debug\AnotherMethod.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AnotherMethod\obj\Debug\AnotherMethod.pdb

@@ -1,0 +1,7 @@
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\bin\Debug\fun_with_arrays.exe.config
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\bin\Debug\fun_with_arrays.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\bin\Debug\fun_with_arrays.pdb
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\obj\Debug\fun_with_arrays.csproj.AssemblyReference.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\obj\Debug\fun_with_arrays.csproj.CoreCompileInputs.cache
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\obj\Debug\fun_with_arrays.exe
+F:\gitRep\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\fun_with_arrays\obj\Debug\fun_with_arrays.pdb
