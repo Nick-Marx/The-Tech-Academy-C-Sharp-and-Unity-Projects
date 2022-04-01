@@ -7,15 +7,13 @@ Circumstantially, this turned out to be a solo project.
 
 To help with outlining the game, I first created 3 scenes: title, main, and end/credit scenes. I decided to use buttons to control the scene transitions and a levelloader prefab to handle a fade-in/out effect.
 
-![]
-(https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/scenes.gif)
+![](https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/scenes.gif)
 
 ## **Blocks and Block Movement**
 
 The block sprites were created using Aseprite, then imported into Unity and arranged into multiple prefabs. Originally I created each block shape as an entire unit, but changed it into individual 16x16 pixel cells later after thinking it would be easier and a little more versatille this way.
 
-![]
-(https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/sprite.png)
+![](https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/sprite.png)
 
 I created a 1 second timer in the update method and multiplied it by delta time to create a synchronized interval. Next, I made the active block transform its position in the negative vertical at each interval starting from the top of the board.
 
@@ -44,8 +42,7 @@ The active block movement is controlled with the left/right arrow keys and I add
 
 A grid was added to help control boundaries and the resting block positions once they become inactive. I then put in a catch to tell when blocks touch, which will deactivate the active block and spawn a new random active block at the top.
 
-![]
-(https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/blockmovement.gif)
+![](https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/blockmovement.gif)
 
 ## **Objectives: Win/Lose Conditions**
 
@@ -105,13 +102,11 @@ public void ClearLines()
     }
 ```
 
-![]
-(https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/lineclear.gif)
+![](https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/lineclear.gif)
 
 This one also stumped me a little, but I eventually realized a simple solution that seems to work pretty effectively.
 
-![]
-(https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/blockout.gif)
+![](https://github.com/Nick-Marx/The-Tech-Academy-C-Sharp-and-Unity-Projects/blob/main/Classics%20Arcade/README/blockout.gif)
 
 ## **Final Touches**
 
