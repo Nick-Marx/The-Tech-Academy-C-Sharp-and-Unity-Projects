@@ -2,6 +2,7 @@
 
 My Live Project assignment for The Tech Academy using Unity/CSharp.
 Circumstantially, this turned out to be a solo project.
+Completion Time: 12 days
 
 ## **Scene Setup**
 
@@ -114,6 +115,6 @@ After clearing the bugs throughout the main mechanics of the game, I went back a
 
 ## **Final Thoughts**
 
-The challeneges presented during this projected had me thinking and looking at problem in new ways. My original plan for how to manage the mechanics in this game didn't quite work out and forced me reconsider my strategy and research a bit more. After I finally got things working, the sense of reward and accomplishment I felt was indescribable. Thank you [The Tech Academy](https://www.learncodinganywhere.com/) for giving me this opportunity and helping me succeed.
+The challeneges presented during this projected had me thinking and looking at problems in new ways. My original plan for how to manage the mechanics in this game didn't quite work out and forced me reconsider my strategy and research a bit more. After I finally got things working, the sense of reward and accomplishment I felt was indescribable. Thank you [The Tech Academy](https://www.learncodinganywhere.com/) for giving me this opportunity and helping me succeed.
 
 
